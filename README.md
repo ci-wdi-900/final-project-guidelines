@@ -24,7 +24,8 @@
 
 * [Resume Builder](https://mpassade-ci.github.io/final-project/)
 * [The BookApp](https://hurl2526.github.io/Final-project/)
-* [Limit Reservation](https://hurl2526.github.io/Final-project/)
-* [Pokedex](https://hurl2526.github.io/Final-project/)
+* [Limit Reservation](https://htmlpreview.github.io/?https://github.com/wilcc/term1-project/blob/master/index.html)
+* [Pokedex](https://htmlpreview.github.io/?https://github.com/hansCodeJam/pokedex/blob/master/index.html)
 * [Chabt](https://chabt.surge.sh/)
 * [Kristal Pharmacy](https://htmlpreview.github.io/?https://github.com/busrasariguzel/final-part-2/blob/master/index.html)
+* [Recipe Tracker](http://recipe-tracker.surge.sh/)
