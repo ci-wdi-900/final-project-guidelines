@@ -5,6 +5,7 @@
 * You will be submitting a proposal TODAY for an app that will contain a text description of what your app will do, followed by a sketch of at least two interfaces, browser and mobile views. It does not have to be an in-depth sketch or analysis, but this proposal will grow into your README, which is part of your app's grade.
 * Your app will be due at the end of the day on Monday.
 * You may present your app on Tuesday, but this is voluntary.
+* And here is [the grading rubric](https://docs.google.com/document/d/11Bjfzv19JBzVPqz_O4x4BbyUlSw3V4axcy6MJSG-ru8/edit?usp=sharing).
 
 
 ### The Minimum
