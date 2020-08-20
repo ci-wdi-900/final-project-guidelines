@@ -22,4 +22,9 @@
 
 ### Previous Projects
 
-TODO
+* [Resume Builder](https://mpassade-ci.github.io/final-project/)
+* [The BookApp](https://hurl2526.github.io/Final-project/)
+* [Limit Reservation](https://hurl2526.github.io/Final-project/)
+* [Pokedex](https://hurl2526.github.io/Final-project/)
+* [Chabt](https://chabt.surge.sh/)
+* [Kristal Pharmacy](https://htmlpreview.github.io/?https://github.com/busrasariguzel/final-part-2/blob/master/index.html)
